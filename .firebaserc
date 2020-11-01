@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-pwa-platzi-f553a"
+  },
+  "targets": {
+    "angular-pwa-platzi-2": {
+      "hosting": {
+        "spa": [
+          "angular-pwa-platzi-2"
+        ]
+      }
+    }
+  }
+}
